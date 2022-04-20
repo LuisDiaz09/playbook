@@ -12,3 +12,6 @@
 module.exports = (message) => {
     console.log(`info: ${message}`)
   }
+
+  //comenatario para hacer commit
+  
